@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>de.devor.pageflow.mvc.core</artifactId>
+	<name>de.devor.pageflow.mvc.core</name>
+	<description>Module that contains the core components to realize MVC.</description>
+
+	<parent>
+		<groupId>de.devor.pageflow</groupId>
+		<artifactId>de.devor.pageflow.releng</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
+		<relativePath>../de.devor.pageflow.releng/pom.xml</relativePath>
+	</parent>
+	
+</project>
