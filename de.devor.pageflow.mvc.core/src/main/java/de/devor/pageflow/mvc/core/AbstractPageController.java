@@ -17,9 +17,6 @@ public abstract class AbstractPageController implements PageController {
 	 */
 	@Override
 	public void init(ApplicationContext applicationContext) throws PageException {
-		
-		System.err.println("To test Git hooks!!");
-		
 		// Create page model and page helper and update the application context.
 		// First create the model. So the page helper (view) can access the model.
 		PageModel model = getPageModel();
