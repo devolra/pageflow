@@ -12,4 +12,6 @@ public interface PageModel extends Serializable {
 
 	public static final String PAGE_MODEL = "PAGE_MODEL";
 	
+	Test
+	
 }
